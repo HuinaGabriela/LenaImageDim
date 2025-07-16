@@ -1,13 +1,13 @@
 # LenaImageDim
-Compressão Visual com Lena: do RGB ao Binário
 
-Esse projeto faz parte do estudo do Bootcamp da Dio+BairesDev
+📷 Compressão Visual com Lena: do RGB ao Binário
+Este projeto faz parte do Bootcamp Dio + BairesDev e tem como objetivo aplicar técnicas de redução de dimensionalidade em imagens. A proposta é converter uma imagem da Lena colorida (RGB) em duas versões:
 
-Projeto para redução de dimensionalidade em imagens.
+Escala de cinza (grayscale): transforma os pixels para tons entre 0 e 255.
 
-Seguindo o exemplo do algoritmo de binarização apresentado em nossa última aula, realize a implementação em Python para transformar uma imagem colorida para níveis de cinza (0 a 255) e para binarizada (0 e 255), preto e branco.
+Imagem binarizada (preto e branco): converte os pixels para apenas 0 ou 255 com base em um limiar (threshold).
 
-Por meio da imagem é possível visualizar os dois casos esperados:
+Utiliza-se a imagem clássica da Lena como exemplo visual do processo.
 
 ![Lena](imagens/lena.PNG)
 

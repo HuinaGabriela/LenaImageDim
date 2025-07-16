@@ -9,5 +9,5 @@ Seguindo o exemplo do algoritmo de binarização apresentado em nossa última au
 
 Por meio da imagem é possível visualizar os dois casos esperados:
 
-![Imagem da Lena](images/lena.png)
+![Imagem da Lena](lena.png)
 

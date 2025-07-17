@@ -42,7 +42,7 @@ pixel binarizado={ 255, se pixel cinza>threshold
 
   ![Lena_binary](imagens/lena_binary.png)
 
-
+No projeto, usamos um limiar padrão de 128, ou seja, pixels com valor maior que 128 viram branco (255), e os demais viram preto (0).
 As imagens de saída lena_gray.png e lena_binary.png são salva na mesma pasta da imagem original.
 
 

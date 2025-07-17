@@ -18,7 +18,7 @@ Exibe as três imagens geradas:
   1. **Imagem original colorida (RGB)**
 
 
-  ![Lena](imagens/lena.png)
+  ![Lena](imagens/lena.PNG)
 
 
   2. **Escala de Cinza:**  
